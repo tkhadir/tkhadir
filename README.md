@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#Some tips before continue into my repositories git emoji's messages :)
+
 |   Commit type              | Emoji                                         |
 |:---------------------------|:----------------------------------------------|
 | Initial commit             | :tada: `:tada:`                               |
