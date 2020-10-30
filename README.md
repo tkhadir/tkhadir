@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#Some tips before continue into my repositories git emoji's messages :)
+# Some tips before continue into my repositories git emoji's messages :)
 
 |   Commit type              | Emoji                                         |
 |:---------------------------|:----------------------------------------------|
