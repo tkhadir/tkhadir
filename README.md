@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-if you love solving problems you can take look to my repos AdventOfCode or participate in : https://adventofcode.com/
+if you love solving problems you can take look to my repos AdventOfCode and run step solve :
+
+```
+npm run solve
+```
+
+or participate in : https://adventofcode.com/
 
 # Some tips before continue into my repositories git emoji's messages :)
 
