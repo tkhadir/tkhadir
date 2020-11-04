@@ -6,6 +6,7 @@ Some little handy tools that you can reuse for your projects :
  - postman_like
  - md-to-html-converter
  - react-todolist
+ - react-elearning-template
  
 don't hesitate to share your ideas with me :)
 
