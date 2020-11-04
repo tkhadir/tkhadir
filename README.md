@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+Some little handy tools that you can reuse for your projects :
+ - mongo_like
+ - postman_like
+ - md-to-html-converter
+ - react-todolist
+ 
+don't hesitate to share your ideas with me :)
+
+
 if you love solving problems you can take look to my repos AdventOfCode and run step solve :
 
 ```
