@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 
+clash_of_code repo is some of my funny experiences at https://www.codingame.com/ website, try it :)
+
 Some little handy tools that you can reuse for your projects :
  - mongo_like
  - postman_like
