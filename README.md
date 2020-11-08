@@ -3,6 +3,8 @@
 
 # My json validator tool
 
+https://dev.to/tkhadir/the-need-to-monitor-json-type-data-in-the-database-2lcp
+
 in my repos json-validator-tool is an idea that i had to monitor json schema in database, don't hesitate fork and contribute :rocket:
 
 ![demo-top](demo.PNG)
