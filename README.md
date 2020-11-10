@@ -2,7 +2,7 @@
 
 # My tool cronify
 
-in my repos cronify is an idea that i had to monitor my scheduled jobs
+in my repos cronify is an idea that i had to monitor my scheduled shell jobs
 ![cronify](cronify.JPG)
 
 # My json validator tool
