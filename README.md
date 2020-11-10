@@ -2,6 +2,8 @@
 
 # My tool cronify
 
+https://dev.to/tkhadir/little-handy-crontab-helper-tool-4kh8
+
 in my repos cronify is an idea that i had to monitor my scheduled shell jobs
 ![cronify](cronify.JPG)
 
