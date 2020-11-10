@@ -3,7 +3,7 @@
 # My tool cronify
 
 in my repos cronify is an idea that i had to monitor my scheduled jobs
-![cronify](cronify.JPEG)
+![cronify](cronify.JPG)
 
 # My json validator tool
 
