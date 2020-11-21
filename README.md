@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## my node-crypt-helper
+
+is a nodejs cli tool that can help you encrypt/decrypt any file you want
 
 # My github explorer
 
