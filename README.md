@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## My faker-api
+
+is a sample nodejs api that can give fake response by calling the api using get.
+
 ## My ppt-js-generator
 
 how to generate ppt file dynamically? this repo answer this question.
